@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-<!--
-**SeunghyunCho22/SeunghyunCho22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on HUFS
-- 🌱 I’m currently learning Computer Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on HUFS.
+- 🌱 I’m currently learning Computer Engineering.
+- 👯 I’m looking to collaborate on Web especially Front-end.
+- 🤔 I’m looking for help with S Y Lee and S J Kim.
+- 💬 Ask me about current businesses about videos.
+- 📫 How to reach me: shn07102@gmail.com or IG: @cheri_sh.00
